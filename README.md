@@ -2,7 +2,7 @@
 
 📌 Currently I am an M.Phil. student in Computer and Information Engineering [@T-Lab-CUHKSZ](https://github.com/T-Lab-CUHKSZ).
 
-🎓 M.Phil. in Computer and Information Engineering, The Chinese University of Hong Kong, Shenzhen
+🎓 M.Phil. in Computer and Information Engineering, The Chinese University of Hong Kong, Shenzhen  
 🎓 B.Eng. in Communication Engineering, Northeast Forestry University  
 
 ---
