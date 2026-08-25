@@ -42,5 +42,5 @@
 
 ### 📫 Contact
 
-- Email: zhongzeluo@link.cuhk.edu.cn  
+- Email: luozhongze0928@foxmail.com  
 - Homepage: https://luozhongze.github.io/  
