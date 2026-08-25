@@ -1,8 +1,8 @@
 ## Hi, I'm Zhongze Luo (罗中泽) 👋
 
-📌 Currently I am an M.Phil. student in Computer and Information Engineering at The Chinese University of Hong Kong, Shenzhen, working [@T-Lab-CUHKSZ](https://github.com/T-Lab-CUHKSZ).
+📌 Currently I am an M.Phil. student in Computer and Information Engineering [@T-Lab-CUHKSZ](https://github.com/T-Lab-CUHKSZ).
 
-🎓 M.Phil. in Computer and Information Engineering, CUHK-Shenzhen  
+🎓 M.Phil. in Computer and Information Engineering, The Chinese University of Hong Kong, Shenzhen
 🎓 B.Eng. in Communication Engineering, Northeast Forestry University  
 
 ---
