@@ -18,7 +18,7 @@
 
 ### 📄 Selected Publications
 
-- **Off-Distribution Voices: Fanfiction Subgenres as Universal Vernacular Jailbreaks for Aligned LLMs**  
+- **Voices Across Registers: Corpus-Conditioned Jailbreaks against Aligned LLMs via Fanfiction Subgenres**  
   *EMNLP 2026 Main*  
   **Z. Luo**, R. Shi, Z. Yin, H. Liu, W. Wan, X. Tang*
 
