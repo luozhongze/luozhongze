@@ -18,7 +18,7 @@
 
 ### 📄 Selected Publications
 
-- **Voices Across Registers: Corpus-Conditioned Jailbreaks against Aligned LLMs via Fanfiction Subgenres**  
+- **Voices Across Registers: Corpus-Conditioned Vernacular Jailbreaks against Aligned LLMs via Fanfiction Subgenres**  
   *EMNLP 2026 Main*  
   **Z. Luo**, R. Shi, Z. Yin, H. Liu, W. Wan, X. Tang*
 
